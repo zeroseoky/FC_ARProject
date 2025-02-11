@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ARProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Fastcampus\ARporject_RPG\Sourcetree_ARProject\ARProject\Intermediate\Build\Win64\x64\ARProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\Fastcampus\ARporject_RPG\Sourcetree_ARProject\ARProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARProject\ARProject.cpp.obj"
+"D:\Fastcampus\ARporject_RPG\Sourcetree_ARProject\ARProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARProject\Default.rc2.res"
+/OUT:"D:\Fastcampus\ARporject_RPG\Sourcetree_ARProject\ARProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARProject\UnrealEditor-ARProject.lib"
